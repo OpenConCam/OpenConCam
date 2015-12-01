@@ -1,0 +1,129 @@
+Welcome to Etherpad!
+This pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!
+
+OpenCon is the conference for students and professionals on Open Access, Open Education, and Open Data.
+www: http://www.opencon2015.org/keren/opencon_cambridge
+To tweet about the event, use #OpenConCam
+
+Use this etherpad to: 
+	* Take notes, share comments and questions
+	* Liaise with other attendees
+	* Set plans for before/during/after OpenConCam
+	* ...
+
+Streaming on https://periscope.tv/lgatt0
+Uploaded on the OpenConCam YouTube channel https://www.youtube.com/channel/UCUz0Zf0Nr52HPjx1y_sKUnQ (more to come)
+
+##########################################################################
+######                                    Introduction and Info
+##########################################################################
+
+Kirstie Whitaker - Video https://www.periscope.tv/lgatt0/1zqJVwAPkowxB
+
+Why OpenCon Cambridge?
+The organisers brought together OpenCon Cambridge because we're passionate about open access, open data and open education and we wanted to:
+	* Introduce open in all its many forms
+	* Bring people together who want to change things in research, education, public data
+	* Make connections and networks in the University (and outside)
+	* Take forward actions in Cambridge e.g. groups who want to focus on a certain thing, changes we can ask for internally, training or research that people might be interested in pursuing.
+
+Things you might need to know:
+	* Hashtag: #openconcam - keep the comments and questions coming on Twitter
+	* Coffee break is at 15:30
+	* Wifi code is Ticket: 300-329-490 Password: ki8ce27d
+	* We are heading to The Punter after 17:30 http://www.thepuntercambridge.com/map.html
+
+##########################################################################
+######                                   Session Notes and Questions
+##########################################################################
+
+Cameron Neylon Opening Keynote - Video https://www.youtube.com/watch?v=BqZc-bWT9mc
+
+What are your personal motivations for being open?
+Cameron Neylon - it contributed to my success, more people were reading what I wrote
+Jenny Molloy - I was frustrated as a researcher by lack of access to data but even before that I liked the idea of an open source community and wanted to be part of one, to contribute where I could. I like that open sets up spaces where that is possible.
+Michelle Brook - I care about open, because I care about enabling more people to have access to academic information and knowledge. It's about equality and fairness.
+
+Richard Smith-Unna - Video https://www.youtube.com/watch?v=d8lwPo75fbg
+
+What did Richard miss out? Do you have other tips from your work or experiences?
+More what he included - loved the emphasisi on "making things" not just be about software, but instead about the possibility of making decisions, communities, policies.
+
+Lightning talks!
+
+Max Shinn on Open software for open science - Video https://www.youtube.com/watch?v=cfn0xopZnDw
+License you work! Choose an appropriate license and add it to your code files, at least minimally and ideally with lawyer friendly language (this is documented)
+Who in Cambridge can give advice on software licensing?
+
+Richard Bowman on open source, low-cost 3D printed microscope - Video https://www.youtube.com/watch?v=5D2AZvs7Sls 
+You can read more at http://arxiv.org/abs/1509.05394 if you like.  I'll be putting it on DocuBricks soon, but email me if you want the files now! rwb27 at cam
+
+Justin Blanchard - not here
+
+Nancy Pontika (@nancypontika) on COnnecting REpositories (CORE) - Video https://www.youtube.com/watch?v=OTm8A6ol19k
+
+Tibor Auer on Describing and sharing data, provenance and results of a neuroimaging study - Video https://www.youtube.com/watch?v=M7gAi0Hs02g
+
+Jenny Molloy (@jenny_molloy) on OpenPlant - open technologies for plant synthetic biology - Video https://www.youtube.com/watch?v=B2b4_iTPcLE
+See http://openplant.org and http://www.synbio.ac.uk
+
+Chris Forman (@rubiksplanet) on TReND Africa - not here
+
+Fernan Fedirici on Open access, data and science education in Chile - Video https://www.youtube.com/watch?v=HvspaOX6QCs
+
+Marta Teperek (@CamOpenData) on Open data at the University - Video https://www.youtube.com/watch?v=BMYDK0TDHwA
+You can see activities at www.data.cam.ac.uk 
+
+Tobey Wenzel on documenting open hardware for science - Video https://www.youtube.com/watch?v=PtPstSRzzp0
+Our open source software and database talked about are available at DocuBricks.com
+The collaborator I mentioned in my talk: Shuttleworth Fellow Luka Mustafa: http://irnas.eu/projects.html
+
+Info: There will be a journal soon specifically for Open Source Hardware in an affordable open access formate. When it is out, you will be able to find it here: http://www.ubiquitypress.com/site/journals/
+
+Fiona Nielsen (@glyn_dk) on Open data in genomics - https://www.youtube.com/watch?v=TS3jV_VciZw
+
+Nicole Janz - Video https://www.youtube.com/watch?v=_Tavl6ASsyc
+Does anyone know of similar workshops elsewhere in Cambridge?
+	Sophie Kay delivered a course for the Life Sciences Interface DTP in Oxford http://www.opensciencetraining.com/
+	I did a review of some open science training http://science.okfn.org/2014/12/21/open-training-for-open-science/
+Would you find this useful in your feild? Would this be a terrible idea because of 
+More or less none of the experiment or data analysis scripts I see in Physics are anything like "replicatable".  It would be fantastic fo get all our PhD students (and postdocs and academics - though that's harder!) into the mindset of working in a reproducible way.
+
+Comment by Tobey: DocuBricks can also be used to document a "recipe" to treat or replicate data and soon there will be lables and comment functionalities on the database for successful replications. This is also a key issue for open source hardware, but can be applied to other fields. DocuBricks is general to all documentations, and the scientific hardware projects will be concentrated on OpenLabware.org when it becomes neccessay.
+
+Comment by Tibor Auer: https://github.com/ReScience/ReScience
+
+
+Keren Limor-Waisberg - Video https://www.youtube.com/watch?v=rUeIVSGxu-c
+http://literacytool.com/ is Keren's website
+The Society to Science Meetup - http://www.meetup.com/Society-to-Science-Meetup/
+
+
+Dan Horrex, Cambridgeshire Council Open Data Team - Video https://www.youtube.com/watch?v=CqPWkQpUGNE
+
+
+Rupert Gatti on Open Book Publishers  (his talk has been moved) - Video https://www.youtube.com/watch?v=46O_SDLN6tU
+
+
+##########################################################################
+######      What shall we do now? Proposals for projects, activities, meetings
+##########################################################################
+
+	*  Promote All Things Open in Cambridge with a webpage, an community
+	* Have a post-conf meeting to discuss how we can keep things going
+	* Organise regular short (lunch-time) meetings (every 2-3 months)
+	* Establish an online presence of local open activists 
+
+
+##########################################################################
+######      Questions for the panel discussion
+##########################################################################
+
+	* How include the traditionally "closed" incorporations in their transition to open. Do they have to be "perfect" to be folded into the flock? How do we know their motivations are "pure"?
+	* Based on Richard's presentation - how can we ensure mentors and champions are encouraged, appreciated, rewarded (in their career)?
+	* Most scientific instrumentation is closed.  How do we open it up, without losing the expertise of our current suppliers and turning PhD students into badly paid technicians?
+	* How can the reward system in academia be adjusted to incorporate replication studies? Is there a difference between "original" work and replication?
+	* Are there fields that are more or less appropriate for replication studies? Are we creating a generation of "error seekers" who want to bring down big names in the field? Is this a bad thing?
+	* Publishing measurement data open is great but how can we make cammercial players (e.g. publishers) to put their finger onto closing gaps in publicaions, e.g. ingrediende missing in chemistry method papers, which is an extermly common problem.
+
+
