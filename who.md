@@ -30,7 +30,24 @@ linkedin:
 
 There are 3 possibilites to send us these information and join OpenConCam.
 
-* The preferred way requires a free github account and some familiarity for github. 
+* The preferred way requires a free github account and some
+  familiarity for github. Make sure you are logged in and click on the
+  little pen on the upper right corner of this page.
+
+  ![edit page](./figures/edit.png)
+
+  This will open an online editor for you to update this page using
+  the simple
+  [markdown syntax](https://guides.github.com/features/mastering-markdown/). Start
+  by copying the short form above at the bottom of this page and fill
+  in the fields. Empty fields can either be left as is or removed
+  completely. Then, scroll down to *commit* your changes but adding a
+  short description of your update (`Update who.md`, the default
+  message is file) and optionally add an extended description. You
+  will then be able to *Create a new branch for this commit and start
+  a pull request* by clicking on the `Propose file change` button.
+
+  ![send PR](./figures/send-pr.png)
 
 If you do it like this, you will have done your first official and public contribution to OpenConCam!
 
