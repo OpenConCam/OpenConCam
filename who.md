@@ -10,6 +10,7 @@ information we would like you to share is shown below. *Name*,
 **mandatory**. We would also like if you could provide 1 to 3 social
 media accounts.
 
+```
 Name:  
 Surname:  
 Short profile:  
@@ -23,6 +24,7 @@ keybase:
 google+:  
 linkedin:  
 (add other social media)
+```
 
 ## How to join
 
