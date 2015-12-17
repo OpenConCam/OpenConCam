@@ -1,16 +1,43 @@
-Name:
-Surname:
-Short profile:
-Open tags:
-www:
-email:
-twitter:
-github:
-facebook:
-keybase:
-google+:
-linkedin:
-## add other social media
+# OpenConCam members
+
+This file provides a short summary of the OpenConCam activits. (Once
+we have gathered all the profiles here, we will use it to population
+the main [OpenConCam](http://www.OpenConCam.org) web page.)
+
+If you want to join OpenConCam, please feel free to add yourself. The
+information we would like you to share is shown below. *Name*,
+*surname*, *short profile*, *email address* and *open tags* are
+**mandatory**. We would also like if you could provide 1 to 3 social
+media accounts.
+
+Name:  
+Surname:  
+Short profile:  
+Open tags:  
+www:  
+email:  
+twitter:  
+github:  
+facebook:  
+keybase:  
+google+:  
+linkedin:  
+(add other social media)
+
+## How to join
+
+There are 3 possibilites to send us these information and join OpenConCam.
+
+* The preferred way requires a free github account and some familiarity for github. 
+
+If you do it like this, you will have done your first official and public contribution to OpenConCam!
+
+
+http://goo.gl/forms/3IuGWXOZpZ
+
+
+
+
 
 Name: Marta
 Surname: Teperek
