@@ -1,14 +1,15 @@
 # OpenConCam members
 
-This file provides a short summary of the OpenConCam activits. (Once
+This file provides a short summary of the OpenConCam activists. (Once
 we have gathered all the profiles here, we will use it to population
 the main [OpenConCam](http://www.OpenConCam.org) web page.)
 
 If you want to join OpenConCam, please feel free to add yourself. The
-information we would like you to share is shown below. *Name*,
-*surname*, *short profile*, *email address* and *open tags* are
-**mandatory**. We would also like if you could provide 1 to 3 social
-media accounts.
+information we would like you to share is shown below. **Mandatory**
+fields are *name*, *surname*, *short profile*, *open tags* and at
+least one channel (email, twitter, ...) for people to contact you if
+necessary. We would also like if you could provide 1 to 3 social media
+accounts.
 
 ```
 Name:  
@@ -28,7 +29,7 @@ linkedin:
 
 ## How to join
 
-There are 3 possibilites to send us these information and join OpenConCam.
+There are 3 possibilities to send us these information and join OpenConCam.
 
 * The preferred way requires a free GitHub account and some
   familiarity for GitHub. Make sure you are logged in and click on the
@@ -70,7 +71,7 @@ There are 3 possibilites to send us these information and join OpenConCam.
 * Finally, if you do not have a GitHub account and don't want to
   create one for free, you can fill out this
   [Google form](http://goo.gl/forms/3IuGWXOZpZ). After submission, one
-  administrator will be notified by email and they will upate this
+  administrator will be notified by email and they will update this
   page for you. This method might result in a few days delay before we
   can update your details.
 
