@@ -1,4 +1,4 @@
-# OpenConCam members
+# OpenConCam membership
 
 This file provides a short summary of the OpenConCam activists. (Once
 we have gathered all the profiles here, we will use it to population
