@@ -119,10 +119,10 @@ GitHub: KerenLW
 facebook: theliteracytool  
 linkedin: http://uk.linkedin.com/in/kerenlimorwaisberg  
 
-Name: Stephen
-Surname: Eglen
-Short profile: I am a computational neuroscientist.  I am keen to promote reproducible research.  
+Name: Stephen  
+Surname: Eglen  
+Short profile: I am a computational neuroscientist.  I am keen to promote reproducible research.   
 Open tags: Open data, open source software, open access, open education  
-www: www.damtp.cam.ac.uk/user/sje30  
-twitter: @StephenEglen
+www: www.damtp.cam.ac.uk/user/sje30   
+twitter: @StephenEglen  
 GitHub: sje30  
