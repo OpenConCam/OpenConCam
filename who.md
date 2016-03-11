@@ -127,14 +127,14 @@ www: www.damtp.cam.ac.uk/user/sje30
 twitter: @StephenEglen  
 GitHub: sje30  
 
-Name: Ben
-Surname: Webb 
-Short profile: Software developer at Open Data Services, a workers co-op that helps people
-               publish and use open data.
-Open tags: Open data, Open source, Government Transparency
-www: http://bjwebb.co.uk/
-email: ben.webb@opendataservices.coop
-twitter: @bjwebb67
-GitHub: Bjwebb
-keybase: https://keybase.io/bjwebb
-linkedin: https://www.linkedin.com/in/bjwebb
+Name: Ben  
+Surname: Webb   
+Short profile: Software developer at Open Data Services, a workers co-op that helps people  
+               publish and use open data.  
+Open tags: Open data, Open source, Government Transparency  
+www: http://bjwebb.co.uk/  
+email: ben.webb@opendataservices.coop  
+twitter: @bjwebb67  
+GitHub: Bjwebb  
+keybase: https://keybase.io/bjwebb  
+linkedin: https://www.linkedin.com/in/bjwebb  
