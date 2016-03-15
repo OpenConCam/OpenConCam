@@ -11,7 +11,11 @@ document is
 
 ### Notices
 
-[Austrian Science Fund grant proposal goes public with RIO Journal](http://www.eurekalert.org/pub_releases/2015-12/pp-asf121715.php) 2015-12-18
+Why does publishing open access help early career researchers?
+[Eventbrite signup](https://www.eventbrite.com/e/why-does-publishing-open-access-help-early-career-researchers-tickets-22034493764)
 
-The new journal _Research Ideas and Outcomes_ has published its first outputs including two research proposals (one newly funded, one under consideration) alongside a debut editorial. It is hoped that open research proposals will become more common in future. What's the Cambridge link? Ross Mounce is a founding editor of this journal. Ask me about it!
+Are you an early career researcher or PhD candidate? Do you want to know more about open access publishing and the opportunities that it offers? Come along to this interactive talk in Cambridge to find out about the benefits of open access publishing.
+This event features talks from open access publishers and looks at the different models available to authors. There will be an opportunity to ask questions and learn more about the benefits and practicalities of publishing in open access journals early in a researcher’s career.
+
+
 
