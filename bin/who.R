@@ -8,4 +8,4 @@ writeLines(lns, f)
 x <- read.dcf(f)
 x <- gsub("\n", " ", x)
 x <- gsub("\t", " ", x)
-
+print(x)
