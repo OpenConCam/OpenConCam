@@ -12,7 +12,7 @@ necessary. We would also like if you could provide 1 to 3 social media
 accounts.
 
 ```
-Name:  
+Name:
 Surname:  
 Short profile:  
 Open tags:  
@@ -138,3 +138,13 @@ twitter: @bjwebb67
 GitHub: Bjwebb  
 keybase: https://keybase.io/bjwebb  
 linkedin: https://www.linkedin.com/in/bjwebb  
+
+Name: Rupert
+Surname:  Gatti
+Short profile:  Economist at Trinity College. Co-founder of Open Book Publishers, publishing Open Access academic books and monographs.
+Open tags:  Open Access, Open Data, Open Educational Resources, Open Research
+www:  https://www.openbookpublishers.com
+email:  jrjg1@cam.ac.uk
+twitter:  @rupertgatti
+GitHub:  rupertgatti
+
