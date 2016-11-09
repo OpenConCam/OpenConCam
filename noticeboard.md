@@ -11,6 +11,8 @@ document is
 
 ### Current Notices
 
+24 November 2016 - [OpenConCam 2016](http://www.opencon2016.org/kirstiejane/opencon_2016_cambridge) - 9:30am - 5pm at the Betty and Gordon Moore Library
+
 8 June 2016 Improving the research process - discussing an 'open research' position
 [Eventbrite signup](https://www.eventbrite.com/e/improving-the-research-process-discussing-an-open-research-position-tickets-25391407383)
 
