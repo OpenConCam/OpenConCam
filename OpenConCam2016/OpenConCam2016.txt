@@ -1,0 +1,148 @@
+OpenConCam 2016
+
+OpenCon 2016 is the student and early career academic professional conference on Open Access, Open Education, and Open Data being held in Washington, DC.
+
+The OpenCon 2016 Cambridge satellite event will bring together students, early career academic professionals and open advocates from around Cambridge (although anyone from the surrounding areas are welcome to join us!)
+
+This year's theme is Building Impact Through Openness.
+
+Our goal is to support and build the open community in Cambridge. We want to empower attendees to make a difference in their respective fields through open research, data, education and access.
+
+This year's committee have brought together a sensational program of world leading speakers but there is also time scheduled for focus group discussion around actions that we can take to make a change in the world.
+
+Furthermore there's ample time set aside in the day to ensure all the attendees will be able to share their ongoing activities (in the "silent" unconference) and hopefully build new collaborations for the future.
+
+You can follow the main OpenCon event in held in Washington DC #OpenCon, and you can join the discussion around the Cambridge satellite event at #OpenConCam.
+
+We look forward to seeing you there! Please reach out if you have any questions.
+
+www: http://www.opencon2016.org/opencon_2016_cambridge
+www: http://www.openconcam.org/
+twitter: @OpenConCam and #OpenConCam
+Streaming: http://bit.ly/OpenConCam2016live
+Discussion group feedback form: http://bit.ly/OpenConCam2016feedback
+
+Links from Erin's talk:
+https://elifesciences.org/content/5/e16800/
+http://whyopenresearch.org/
+
+
+Cambridge Open Data
+Hi, Cambridge. Did you know you already have an open data discovery document?: http://www.cam.ac.uk/.well-known/openorg <- links to a text file on my browser? yup, it's rdf in turtle. http://graphite.ecs.soton.ac.uk/browser/?uri=https%3A%2F%2Fraw.githubusercontent.com%2Fcambridgeuniversity%2Fopd%2Fmaster%2Fcambridge.ttl
+
+Focus Group topics
+
+1: How to stop early career researchers being bullied to publish against their ethics?
+
+2: What is stopping early career researchers from being more open?
+
+3: How should early career researchers be evaluated for grants and tenure?
+
+4: What is the power of the reviewer in shifting to open access?
+
+5: How do we encourage the doubtful to try open research?
+
+6: Making a paper open access is not necessarily sharing. Perhaps we should be writing it in an understandable way?
+
+
+Possible topics for focus group discussions:
+    
+		* How to encourage the doubtful to give Open Research a shot? (especially more senior, established academics)
+		* What role should institutions/funders play in Open Research?
+		* What is the power of a reviewer in shifting to OA? (e.g., should I only review manuscripts that will be published OA?)
+		* How does the public feel about being blocked from reading the science they paid for, and what do they think should be done about it?
+		* How to stop bullying early career researchers into publishing against their ethics (i.e., creating fear around getting a permanent job, obtaining grants, etc.)
+		* The fear factor and what to do about it - Gathering evidence of bullying by publishers of authors
+		* Who’s afraid of Text and Data Mining?
+		* Making a paper OA is not necessarily sharing it  - Perhaps we should be writing in an understandable way? 
+		* So you’re a PhD/postdoc and want to be more open, what’s stopping you? (i.e. what barriers are there / do researchers perceive there to be, and how can we go about breaking these down)
+		* How should Early Career Researchers be evaluated for grants and tenure in an open science world - what should we include, what do we need to change and how?
+
+Add your owns!
+
+
+
+
+Focus group 2 rough notes  -  what is stopping ECRs from being more open?
+	* remember not all ECRs will become career academics
+	* some places will keep policy vague around preprints...  even cellpress. mixed experience
+	* would pre print in future but be very careful about where sending work
+	* new ECR - happy to be transparent - want to make data/info searchable and usable for others. But nervous of tweeting or blogging in case work is wrong! don't want to look stupid
+	* voice of librarian/info serv: challenge to encourage academics to comply with REF and to open access.  they don't understand what they are supposed to do. It's complex.  The whole publishing process is new to ECRs, licensing is new, there's a lot of pressure to publish and apply for grants and teach and ... and it's not clear what to do, how to publish, what's the process. 
+	* Would it be useful to have research into what personal pressures that stop people being open?  
+	* wrong is a worry. easy for senior academics to publish rejection lists. hard if you have nothing, yet.  
+	* mid career researchers sharing failure is encouraging, when they don't have tenure.  good role model - realistic aspiration
+	* different chalenges in different disciplines. monograph vs coauthored reports and papers...  different nuance even in close fields, eg CS where conference papers and debate of work in progress is useful, vs engineering where you present a final polished work.  Your research process likely follows what your early PI tells you. you might not get any training in your first few months as a phd (example).  or you get "this is how to add to the repo" but not explain why
+	* humanities - 3yrs work before it goes out.  
+	* are we making a huge assumption that people understand why the system is as it is?  
+	* Lab vs field culture.  changes over time.  Now, put whole genomics stuff in public repo; even 5y ago this wasn'tt the case, data is lost. Regret for lost data.  
+	* paper coauthors may need to request access to their own paper, because they lose access over time or move on
+	* embargoes - different reasons for this (unhappy with result, want it published as book, security/privacy). A challenge
+	* research data - if not publicly funded, not mandated, why would you share?
+	* need a carrot and a stick - is the stick more effective?
+	* Fear of what it will do to impact.   preprints, when first heard of it, seemed very risky!  But when saw a collaborator do it and then get in a good journal, encouraging. Case studies?
+		* easiler to mitigate risk if you have a big catalog behind you, riskier when its your first publication
+	* people worried about precendents for their work.  they don't realise preprints are citable, so you can be cited (not scooped)
+	* what about the publication being the unit of career progression? 
+		* ECRs are poor with few of these units
+		* could we change the career currency, eg datasets, could be part of career building
+		* lack of 'currency' means risks feel worse
+		* gene sequences - immediate public release - so they would be used for analytic papers by others, but the work on the sequencing wasn't always acknowledged
+			* usually there's a link but no mention of authorship on sequences
+			* problem with rapid release in urgent situations eg epidemic
+			* some metadata but often ignored
+	* systems problem!   as well as Culture problem! 
+	* incentivise, if data is a citable pub with attribution
+	* gap in system, where eg people cite stuff but do it wrong so it doesn't hit the database... is there anybody out there who goes and checks in that data authors are cited appropriately?  eg a peer reviewer. "this data, is the person an author or at least attributed?"  do peer reviewers check this stuff?
+	* checklists for peer reviewers?   get citations right! 
+		* could some of this be done by someone not a full time academic
+		*  
+	* repositiories need updating so can use ORCID and get useful linking
+		* computer should be able to link automatically. some repos less advanced :) 
+	* mentoring or coaching - someone not your PI - who shows how to open, and why to open.  someone a bit futher away from your own PI/dept
+	* set up resources - eg Erin's site says why, but can we have a common space which shows HOW, in a common space, not institutional?  find peer support from others?
+	* how can an ECR discover such resources?  if they don't know they are out there?  
+		* is this a role for a funder? as a signpost  
+			* ecrs will listen to funder
+		* is ORCID a framework for this?  eg compare ORCID lists as a funding criteria... 
+		* research office - should be a source ... but lots of rubbish emails from uni, ECRs delete!  funder might get through
+		* part of induction as a PHD/Masters student?
+		* freshers week?   you need ot practice open from the start!!  data management in open compatible way - push it at brand new researchers!  
+			* first year PhD will ignore data management  - "stop the policies! I want to research"
+				* so need marketing!  This is yoru career! take control of your data and research life!   (and help others)
+			* at OU - research training
+			* people dont realise what data is - esp in hums / soc sci. Data seems irrelevant. 
+			* maybe focus on research practice.  showcase how open works and builds better careers!  show the long term benefits
+			* but don't make it look like marketing!
+
+
+Making a paper OA is not necessarily sharing it -perhaps we should be writing in a more understandable way.
+What do the researchers here do to reach out?
+	*     Alex: twitter. blogs 
+	*     Often the outreach for a paper is an afterthought
+		*     after paper published we then do a news piece or release a statement
+How can we storify our papers better?
+		* Back in the 60s paper were much more of a story
+Understand-ability is linked to reproducibility?
+		* If you can't reproduce a paper then maybe you don't really understand it
+Open Notebook Project - Everything you do is noted down in this notebook format
+Bigger projects
+	* These things that are very collaborative are often better at facing the public as well, and explaining what they do
+Data has to be curated to be understandable
+	* If data is open it does not really mean that it has been shared
+Just because research has been published in a nice article it doesn't mean that we have made it understandable
+	* maybe this is something that pre-registration could also help with
+What is the barrier to jumping into OA research? Cultural & other impacts on research?
+Carrot and Sticks
+	* Funders forcing researchers to do this might not result in data that is understandable by others
+	* We need to tackle the psychological barriers amongst scientists, funders and advocacy groups need to sit down and chat with people.
+Bring everyone together to do this. We need the skills of lots of people in order to disseminate science:
+	* Journalists - but we have to engage with them
+	* Artists, engineers, people in industry... Each scientist cannot have all of the skills that are required.
+	* Peer to peer support - Data Research Champions in Cambridge
+Assessment of quality of different datasets
+Should it be a requirement that we should make our research understandable to the public
+	* We feel that we should share our data for publicly funded research
+	* Should we also be obliged in the same way that our research is understandable to the public
+We have to be careful when we try to make things understandable that things are not misunderstood:
+
